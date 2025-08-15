@@ -69,7 +69,7 @@ Prueba la aplicación directamente en tu navegador sin necesidad de instalación
 🚀 Instalación y Uso
 Opción 1: Usar la Demo Online
 
-Accede directamente: https://segurofinder.netlify.app/
+Accede directamente: https://comparaseguro.netlify.app/
 
 No requiere instalación
 
